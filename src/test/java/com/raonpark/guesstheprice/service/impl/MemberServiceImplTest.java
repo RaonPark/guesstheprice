@@ -4,8 +4,16 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 public class MemberServiceImplTest {
+    
+    
     void login() {
+        // given
         
+        // when
+
+        // then
+
+
     }
 }
 	
